@@ -43,9 +43,11 @@ Matplotlib – Data visualization
 └── README.md                                           # Project documentation
 
 📊 Example Visualizations
+
 🔹 Top 10 Highest Salaries (Horizontal Bar Chart)
 
 Displays the top earners with labels on each bar.
+
 
 🔹 Department Distribution (Pie Chart)
 

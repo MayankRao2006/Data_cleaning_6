@@ -33,10 +33,14 @@ Pandas – Data cleaning & analysis
 Matplotlib – Data visualization
 
 📂 Project Structure
-├── Cleaned_Data.csv       # Processed dataset
-├── analysis.ipynb         # Jupyter notebook with full analysis
-├── app.py                 # (Optional) Script form if not using notebook
-└── README.md              # Project documentation
+
+├── Cleaned_Data.csv  
+                                                        # Processed dataset
+├── Data_Cleaning.ipynb                                 # Jupyter notebook with full analysis
+
+├── messy_employee_data_balanced_1000.csv               # Contains the messy data
+
+└── README.md                                           # Project documentation
 
 📊 Example Visualizations
 🔹 Top 10 Highest Salaries (Horizontal Bar Chart)

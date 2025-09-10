@@ -71,8 +71,3 @@ Run the analysis:
 Jupyter Notebook:
 
 jupyter notebook analysis.ipynb
-
-
-Or Python script:
-
-python app.py

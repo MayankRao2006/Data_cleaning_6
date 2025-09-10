@@ -34,8 +34,8 @@ Matplotlib – Data visualization
 
 📂 Project Structure
 
-├── Cleaned_Data.csv  
-                                                        # Processed dataset
+├── Cleaned_Data.csv                                    # Processed dataset
+
 ├── Data_Cleaning.ipynb                                 # Jupyter notebook with full analysis
 
 ├── messy_employee_data_balanced_1000.csv               # Contains the messy data
